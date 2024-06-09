@@ -1,0 +1,26 @@
+C:\Programação\Meus treinamentos\Polimorfisno\Polimorfisno\obj\Debug\netcoreapp3.1\Polimorfisno.csprojAssemblyReference.cache
+C:\Programação\Meus treinamentos\Polimorfisno\Polimorfisno\obj\Debug\netcoreapp3.1\Polimorfisno.AssemblyInfoInputs.cache
+C:\Programação\Meus treinamentos\Polimorfisno\Polimorfisno\obj\Debug\netcoreapp3.1\Polimorfisno.AssemblyInfo.cs
+C:\Programação\Meus treinamentos\Polimorfisno\Polimorfisno\obj\Debug\netcoreapp3.1\Polimorfisno.csproj.CoreCompileInputs.cache
+C:\Programação\Meus treinamentos\Polimorfisno\Polimorfisno\bin\Debug\netcoreapp3.1\Polimorfisno.exe
+C:\Programação\Meus treinamentos\Polimorfisno\Polimorfisno\bin\Debug\netcoreapp3.1\Polimorfisno.deps.json
+C:\Programação\Meus treinamentos\Polimorfisno\Polimorfisno\bin\Debug\netcoreapp3.1\Polimorfisno.runtimeconfig.json
+C:\Programação\Meus treinamentos\Polimorfisno\Polimorfisno\bin\Debug\netcoreapp3.1\Polimorfisno.runtimeconfig.dev.json
+C:\Programação\Meus treinamentos\Polimorfisno\Polimorfisno\bin\Debug\netcoreapp3.1\Polimorfisno.dll
+C:\Programação\Meus treinamentos\Polimorfisno\Polimorfisno\bin\Debug\netcoreapp3.1\Polimorfisno.pdb
+C:\Programação\Meus treinamentos\Polimorfisno\Polimorfisno\obj\Debug\netcoreapp3.1\Polimorfisno.dll
+C:\Programação\Meus treinamentos\Polimorfisno\Polimorfisno\obj\Debug\netcoreapp3.1\Polimorfisno.pdb
+C:\Programação\Meus treinamentos\Polimorfisno\Polimorfisno\obj\Debug\netcoreapp3.1\Polimorfisno.genruntimeconfig.cache
+C:\Programação\MeusTreinamentos\Polimorfisno\Polimorfisno\obj\Debug\netcoreapp3.1\Polimorfisno.csprojAssemblyReference.cache
+C:\Programação\MeusTreinamentos\Polimorfisno\Polimorfisno\obj\Debug\netcoreapp3.1\Polimorfisno.AssemblyInfoInputs.cache
+C:\Programação\MeusTreinamentos\Polimorfisno\Polimorfisno\obj\Debug\netcoreapp3.1\Polimorfisno.AssemblyInfo.cs
+C:\Programação\MeusTreinamentos\Polimorfisno\Polimorfisno\obj\Debug\netcoreapp3.1\Polimorfisno.csproj.CoreCompileInputs.cache
+C:\Programação\MeusTreinamentos\Polimorfisno\Polimorfisno\obj\Debug\netcoreapp3.1\Polimorfisno.dll
+C:\Programação\MeusTreinamentos\Polimorfisno\Polimorfisno\obj\Debug\netcoreapp3.1\Polimorfisno.pdb
+C:\Programação\MeusTreinamentos\Polimorfisno\Polimorfisno\bin\Debug\netcoreapp3.1\Polimorfisno.exe
+C:\Programação\MeusTreinamentos\Polimorfisno\Polimorfisno\bin\Debug\netcoreapp3.1\Polimorfisno.deps.json
+C:\Programação\MeusTreinamentos\Polimorfisno\Polimorfisno\bin\Debug\netcoreapp3.1\Polimorfisno.runtimeconfig.json
+C:\Programação\MeusTreinamentos\Polimorfisno\Polimorfisno\bin\Debug\netcoreapp3.1\Polimorfisno.runtimeconfig.dev.json
+C:\Programação\MeusTreinamentos\Polimorfisno\Polimorfisno\bin\Debug\netcoreapp3.1\Polimorfisno.dll
+C:\Programação\MeusTreinamentos\Polimorfisno\Polimorfisno\bin\Debug\netcoreapp3.1\Polimorfisno.pdb
+C:\Programação\MeusTreinamentos\Polimorfisno\Polimorfisno\obj\Debug\netcoreapp3.1\Polimorfisno.genruntimeconfig.cache
